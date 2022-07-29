@@ -14,38 +14,74 @@ date: 2022-05-23 12:43:06 -0700
 ### Cover
 ![Album Cover](:tommy_thewho.jpg){:data-align="center"}
 
-
 #### Album Review
 
 > **Tommy**, "Tommy", the double-album released on May 23rd 1969 in the UK by the famous rock band The Who , introduced a new genre to the world——Rock Opera.
 >The album was mostly composed by the guitarist Peter Townshend. It told the life story of Tommy Walker, who suffered from childhood's misery and later became a spiritual leader but was overthrown because of his tyranny. The album was turned into a film 6 years later, with the original casts of the band members.
 >"Tommy's operatic pretensions were so transparent that for years it seemed safe to guess that Townshend's musical ideas would never catch up with his lyrics." Said the music journalist Richie Unterberger.
 
+![The Who 1969](:who69.jpg){:data-align="center"}
+
 #### Track listing
 
-scroll enabled when page is narrow
+Side 1
 
-| No  
-| ----
-| 1.  
-| 2.  
-| 3.
-| 4.
-| 5.
-| 6.
+| No  | Title           | Writers                 | Lead vocals                        | Length | 
+| --- | --------------- | ----------------------- | ---------------------------------- | ------ |
+| 1.  | Overture        | Pete Townshend          | Pete Townshend                     | 3:50   |
+| 2.  | It's a Boy      | Pete Townshend          | Pete Townshend                     | 2:07   |
+| 3.  | 1921            | Pete Townshend          | Pete Townshend with Entwistle      | 3:14   |
+|     |                 |                         | and Daltrey on chorus              |        |
+| 4.  | Amazing Journey | Pete Townshend          | Roger Daltrey                      | 3:25   |
+| 5.  | Sparks          | Pete Townshend          | Instrumental                       | 3:45   |
+| 6.  | The Hawker      | Sonny Boy Williamson II | Roger Daltrey                      | 2:15   |
+|     |                 |                         |                    Toltal length:  | 18:36  |
 
-| No  | Title           | Writers                | Lead vocals  | Length  | 
-| ----| ----------------| -----------------------| -------------| --------|
-| 1.  | Overture        | Pete Townshend         | 2222         | 3:50    |
-| 2.  | It's a Boy      | Pete Townshend         | 222          | 2:07    |
-| 3.  | 1921            | Pete Townshend         | 22           | 3:14    |
-| 4.  | Amazing Journey | Pete Townshend         | 2            | 3:25    |
-| 5.  | Sparks          | Pete Townshend         | 22           | 3:45    |
-| 6.  | The Hawker      | Sonny Boy Williamson II| 22           | 2:15    |
-{:data-align="center"}
+Side 2
 
+| No  | Title          | Writers                | Lead vocals                             | Length | 
+| --- | -------------- | ---------------------- | --------------------------------------- | ------ |
+| 1.  | Christmas      | Pete Townshend         | Roger Daltrey, Townshend on bridge      | 5:30   |
+| 2.  | Cousin Kevin   | John Entwistle         | Pete Townshend and John Entwistle       | 4:03   |
+| 3.  | The Acid Queen | Pete Townshend         | Pete Townshend                          | 3:31   |
+| 4.  | Underture      | Pete Townshend         | Instrumental                            | 9:55   |
+|     |                |                        |                          Toltal length: | 22:59  |
+
+Side 3
+
+| No  | Title                      | Writers        | Lead vocals                               | Length | 
+| --- | -------------------------- | -------------- | ----------------------------------------- | ------ |
+| 1.  | Do You Think It's Alright? | Pete Townshend | Pete Townshend and Roger Daltrey          | 0:24   |
+| 2.  | Fiddle About               | John Entwistle | John Entwistle                            | 1:26   |
+| 3.  | Pinball Wizard             | Pete Townshend | Roger Daltrey, Townshend on bridge        | 3:50   |
+| 4.  | There's a Doctor           | Pete Townshend | Pete Townshend with Entwistle and Daltrey | 0:25   |
+| 5.  | Go to the Mirror!          | Pete Townshend | Roger Daltrey, Townshend on bridge        | 3:50   |
+| 6.  | Tommy Can You Hear Me?     | Pete Townshend | Townshend, Entwistle, and Daltrey         | 1:35   |
+| 7.  | Smash the Mirror           | Pete Townshend | Roger Daltrey                             | 1:20   |
+| 8.  | Sensation                  | Pete Townshend | Pete Townshend                            | 2:32   |
+|     |                            |                |                           Toltal length:  | 15:12  |
+
+
+Side 4
+
+| No  | Title                   | Writers        | Lead vocals                                 | Length | 
+| --- | ----------------------- | -------------- | ------------------------------------------- | ------ |
+| 1.  | Miracle Cure            | Pete Townshend | Townshend, Entwistle, and Daltrey           | 0:10   |
+| 2.  | Sally Simpson           | Pete Townshend | Roger Daltrey                               | 4:10   |
+| 3.  | I'm Free                | Pete Townshend | Roger Daltrey                               | 2:40   |
+| 4.  | Welcome                 | Pete Townshend | Roger Daltrey, Townshend on bridge,         | 4:30   |
+|     |                         |                | Entwistle on spoken word                    |        |
+| 5.  | Tommy's Holiday Camp    | Keith Moon     | Pete Townshend                              | 0:57   |
+| 6.  | We're Not Gonna Take It | Pete Townshend | Roger Daltrey, with Townshend and Entwistle | 6:45   |
+|     |                         |                |                             Toltal length:  | 19:12  |
+
+B side
+
+| Song          | Single         | Writer     |
+| ------------- | -------------- | ---------- |
+| Dogs Part Two | Pinball Wizard | Keith Moon |
 
 ### Link
-
-[Access to the album](https://www.thewho.com/music/tommy/)
+[Buy the Album](https://www.thewho.com/music/tommy/)
+[More Info on Wikipedia](https://en.wikipedia.org/wiki/Tommy_(The_Who_album))
 
