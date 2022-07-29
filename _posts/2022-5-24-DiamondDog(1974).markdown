@@ -1,0 +1,29 @@
+---
+lng_pair: id_Examples
+title: Diamond Dogs (1974) -David Bowie
+
+author: Alex Chen
+category: jekyll
+img: ":diamonddogs_davidbowie.jpg"
+date: 2022-05-23 12:43:06 -0700
+---
+
+### Diamond Dogs (1974) -David Bowie
+{:data-align="center"}
+
+### Cover
+![Album Cover](:diamonddogs_davidbowie.jpg){:data-align="center"}
+
+
+#### Album Review
+
+> **Diamond Dogs**, released 48 years ago on this day by David Bowie.
+
+It was Bowie’s final album in the glam rock genre, also influenced by funk and soul music. The album was cited as a great influence on punk revolution at that time.
+
+Preceded by the lead single “Rebel Rebel” , the album peaked at No.1 in the UK and No.5 in the US.
+
+### Link
+
+[Access to the album](https://www.thewho.com/music/tommy/)
+

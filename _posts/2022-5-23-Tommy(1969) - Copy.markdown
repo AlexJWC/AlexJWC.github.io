@@ -1,0 +1,51 @@
+---
+lng_pair: id_Examples
+title: Tommy (1969)-The Who
+
+author: Alex Chen
+category: jekyll
+img: ":tommy_thewho.jpg"
+date: 2022-05-23 12:43:06 -0700
+---
+
+### Tommy (1969)-The Who
+{:data-align="center"}
+
+### Cover
+![Album Cover](:tommy_thewho.jpg){:data-align="center"}
+
+
+#### Album Review
+
+> **Tommy**, "Tommy", the double-album released on May 23rd 1969 in the UK by the famous rock band The Who , introduced a new genre to the world——Rock Opera.
+>The album was mostly composed by the guitarist Peter Townshend. It told the life story of Tommy Walker, who suffered from childhood's misery and later became a spiritual leader but was overthrown because of his tyranny. The album was turned into a film 6 years later, with the original casts of the band members.
+>"Tommy's operatic pretensions were so transparent that for years it seemed safe to guess that Townshend's musical ideas would never catch up with his lyrics." Said the music journalist Richie Unterberger.
+
+#### Track listing
+
+scroll enabled when page is narrow
+
+| No  
+| ----
+| 1.  
+| 2.  
+| 3.
+| 4.
+| 5.
+| 6.
+
+| No  | Title           | Writers                | Lead vocals  | Length  | 
+| ----| ----------------| -----------------------| -------------| --------|
+| 1.  | Overture        | Pete Townshend         | 2222         | 3:50    |
+| 2.  | It's a Boy      | Pete Townshend         | 222          | 2:07    |
+| 3.  | 1921            | Pete Townshend         | 22           | 3:14    |
+| 4.  | Amazing Journey | Pete Townshend         | 2            | 3:25    |
+| 5.  | Sparks          | Pete Townshend         | 22           | 3:45    |
+| 6.  | The Hawker      | Sonny Boy Williamson II| 22           | 2:15    |
+{:data-align="center"}
+
+
+### Link
+
+[Access to the album](https://www.thewho.com/music/tommy/)
+
