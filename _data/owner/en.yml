@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Alex Chen"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "History of Rock N' Roll"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Alex Chen"
 
 # home page top header texts
 home:
@@ -59,7 +59,7 @@ contacts:
 #  - your_new_contact: ""
 
 # Disqus Short name, make sure comments and disqus are enabled in _data/conf/posts.yml file
-disqus_shortname: ""
+disqus_shortname: " Comments"
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml

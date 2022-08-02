@@ -1,6 +1,6 @@
 ---
 lng_pair: id_Examples
-title: Tommy (1969)-The Who
+title: Tommy (1969) - The Who
 
 author: Alex Chen
 category: jekyll
@@ -8,7 +8,7 @@ img: ":tommy_thewho.jpg"
 date: 2022-05-23 12:43:06 -0700
 ---
 
-### Tommy (1969)-The Who
+### Tommy (1969) - The Who
 {:data-align="center"}
 
 ![Album Cover](:tommy_thewho.jpg){:data-align="center"}

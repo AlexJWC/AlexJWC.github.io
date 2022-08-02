@@ -1,0 +1,54 @@
+---
+lng_pair: id_Examples
+title: Sgt.Pepper's Lonely Hearts Club Band (1967) - The Beatles
+
+author: Alex Chen
+category: jekyll
+img: ":sgtpepper.jpg"
+date: 2022-05-26 12:43:06 -0700
+---
+### Sgt.Pepper's Lonely Hearts Club Band (1967) - The Beatles
+{:data-align="center"}
+
+![Album Cover](:sgtpepper.jpg){:data-align="center"}
+
+#### Album Review
+
+> **"Sgt. Pepper's Lonely Hearts Club Band"**, released by English rock band The Beatles on May 26th 1967, turns 55 years old today.
+>Considered as one of the earliest concept albums and art rock LPs, the album was conceptualized as a performance by the fictional Sgt. Pepper's band. 13 tracks included "Sgt. Pepper's Lonely Hearts Club Band" "A Day in the Life" "Lucky in the Sky with Dimonds". The band also released a double A-side single, "Strawberry Field Forever" and "Penny Lane", which were left off the LP but included in the next album.
+>The band continued its technological experimentation including sound effects and tape manipulation. The cover was designed by Peter Blake and Jann Haworth, presenting the band in front of a bunch of celebrities and historical figures including Bob Dylan , Karl Marx, Marilyn Monroe, etc.
+>The album was placed by RollingStone Magazine as No.1 Greatest Album of All Time in the past versions. More than 32 million copies have been sold worldwide.
+
+![The Who 1969](:pepperbeatles2.jpg){:data-align="center"}
+
+#### Track listing
+
+Side 1
+
+| No  | Title                                 | Writers                 | Lead vocals                     | Length | 
+| --- | ------------------------------------- | ----------------------- | ------------------------------- | ------ |
+| 1.  | Sgt. Pepper's Lonely Hearts Club Band | Lennon–McCartney        | Paul McCartney                  | 2:00   |
+| 2.  | With a Little Help from My Friends    | Lennon–McCartney        | Ringo Starr                     | 2:42   |
+| 3.  | Lucy in the Sky with Diamonds         | Lennon–McCartney        | John Lennon                     | 3:28   |
+| 4.  | Getting Better                        | Lennon–McCartney        | Paul McCartney                  | 2:48   |
+| 5.  | Fixing a Hole                         | Lennon–McCartney        | Paul McCartney                  | 2:36   |
+| 6.  | She's Leaving Home                    | Lennon–McCartney        | Paul McCartney with John Lennon | 3:25   |
+| 7.  | Being for the Benefit of Mr. Kite!    | Lennon–McCartney        | John Lennon                     | 2:37   |
+|     |                                       |                         |                 Toltal length:  | 19:34
+
+Side 2
+
+| No  | Title                                           | Writers          | Lead vocals                           | Length | 
+| --- | ----------------------------------------------- | ---------------- | ------------------------------------- | ------ |
+| 1.  | Within You Without You                          | George Harrison  | George Harrison                       | 5:05   |
+| 2.  | When I'm Sixty-Four                             | Lennon–McCartney | Paul McCartney                        | 2:37   |
+| 3.  | Lovely Rita                                     | Lennon–McCartney | Paul McCartney                        | 2:42   |
+| 4.  | Good Morning Good Morning                       | Lennon–McCartney | John Lennon                           | 2:41   |
+| 5.  | Sgt. Pepper's Lonely Hearts Club Band (Reprise) | Lennon–McCartney | Lennon, McCartney, Harrison and Starr | 1:18   |
+| 6.  | A Day in the Life                               | Lennon–McCartney | Paul McCartney with John Lennon       | 5:38   |
+|     |                                                 |                  |                        Toltal length: | 20:01  |
+
+
+### Link
+[Buy the Album](https://usastore.thebeatles.com/product/Y3LPBE022/sgt-peppers-lonely-hearts-club-band-anniversary-edition-1-lp?cp=null&utm_source=Original&utm_campaign=TheBeatlesSgt.Pepper%27sLonelyHeartsClubBand%28Remastered%2920210608&utm_medium=original&utm_umgi=direct)
+[More Info on Wikipedia](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band)
