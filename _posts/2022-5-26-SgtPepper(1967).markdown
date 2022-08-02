@@ -7,8 +7,6 @@ category: jekyll
 img: ":sgtpepper.jpg"
 date: 2022-05-26 12:43:06 -0700
 ---
-### Sgt.Pepper's Lonely Hearts Club Band (1967) - The Beatles
-{:data-align="center"}
 
 ![Album Cover](:sgtpepper.jpg){:data-align="center"}
 
