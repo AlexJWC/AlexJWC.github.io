@@ -1,0 +1,58 @@
+---
+lng_pair: id_Examples
+title: The Freewheelin' Bob Dylan (1963) - Bob Dylan
+
+author: Alex Chen
+category: jekyll
+img: ":bobdylan_.jpg"
+date: 2022-05-27 12:43:06 -0700
+---
+
+![Album Cover](:bobdylan_.jpg){:data-align="center"}
+
+#### Album Review
+
+> **"The Freewheelin' Bob Dylan"**, the second studio album released by Bob Dylan, is 59 years old today.
+>The album included classics like"Blowin' in the Wind" "Girl from the North Country" "Master of War" "A Hard Rain's a-Gonna Fall" and "Don't Think Twice, It's All Right".
+>The album are mixed with love songs and political materials, including Civil Rights Movement and the nuclear warfare, featured bitter & accusatory tones and surreal humor.
+>The cover features a photograph of Dylan with Suze Rotolo. It was described by Critic Janet Maslin as "a photograph that inspired countless young men to hunch their shoulders, look distant, and let the girl do the clinging".
+>The album became No.1 in the UK in 1965 and was ranked #97 in the 500 Greatest Albums of All Times, 2003 version by RollingStone .
+
+
+![The Who 1969](:bbdylan.png){:data-align="center"}
+
+#### Track listing
+
+All tracks were writen and recorded by Bob Dylan.
+Except in Side 2 Track No.6, Henry Thomas contributed part of the writing.
+Side 2 Track No.5 is a traditional song.
+
+Side 1
+
+| No  | Title                       | Recorded         | Length | 
+| --- | --------------------------- | ---------------- | ------ |
+| 1.  | Blowin' in the Wind         | July 9, 1962     | 2:48   |
+| 2.  | Girl from the North Country | April 24, 1963   | 3:22   |
+| 3.  | Masters of War              | April 24, 1963   | 4:34   |
+| 4.  | Down the Highway            | July 9, 1962     | 3:27   |
+| 5.  | Bob Dylan's Blues           | July 9, 1962     | 2:23   |
+| 6.  | A Hard Rain's A-Gonna Fall  | December 6, 1962 | 6:55   |
+|     |                             |  Toltal length:  | 23:29  |
+
+Side 2
+
+| No  | Title                                | Recorded          | Length | 
+| --- | ------------------------------------ | ----------------- | ------ |
+| 1.  | Don't Think Twice, It's All Right    | November 14, 1962 | 3:40   |
+| 2.  | Bob Dylan's Dream                    | April 24, 1963    | 5:03   |
+| 3.  | Oxford Town                          | December 6, 1962  | 1:50   |
+| 4.  | Talkin' World War III Blues          | April 24, 1963    | 6:28   |
+| 5.  | Corrina, Corrina                     | October 26, 1962  | 2:44   |
+| 6.  | Honey, Just Allow Me One More Chance | July 9, 1962      | 2:01   |
+| 7.  | I Shall Be Free                      | December 6, 1962  | 4:49   |
+|     |                                      |   Toltal length:  | 26:35  |
+
+### Link
+[Buy the Album](https://www.bobdylan.com/albums/freewheelin-bob-dylan/)
+[More Info on Wikipedia](https://en.wikipedia.org/wiki/The_Freewheelin%27_Bob_Dylan)
+
