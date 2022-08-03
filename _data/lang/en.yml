@@ -130,7 +130,7 @@ post-list:
 home:
   title: Welcome
   button_name: Home
-  new_posts_title: New Articles
+  new_posts_title: Latest Articles
   new_posts_show_more_button: View More ...
 
 # for archives layout
@@ -165,9 +165,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
+  greetings: Welcome to Alex Chen's Blog
   welcome: Welcome
-  sample: Sample
+  sample: Check the Blog column for complete articles.
 
 # for cookie consent
 cookie_consent:
