@@ -165,9 +165,9 @@ privacy-policy:
 
 # constants to be replaced for
 #constants:
-#  greetings: Welcome to Alex Chen's Blog
-# welcome: Welcome
-# sample: Check the Blog column for complete articles.
+  greetings: Welcome to Alex Chen's Blog
+  welcome: Welcome
+  sample: ———————.
 
 # for cookie consent
 cookie_consent:
